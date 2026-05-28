@@ -11,7 +11,7 @@ class Brand extends SvgPicture {
   }) : super.asset(
           assetName!,
           key: key,
-          package: 'icons_plus',
+          package: 'iconsx_plus',
           height: size,
           colorFilter: colorFilter,
         );

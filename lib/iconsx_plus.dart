@@ -1,4 +1,4 @@
-library icons_plus;
+library iconsx_plus;
 
 export 'src/antdesign.dart';
 export 'src/bootstrap.dart';

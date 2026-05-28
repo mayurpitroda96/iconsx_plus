@@ -1,9 +1,9 @@
-name: icons_plus
-description: Icons Plus is a package that has many icon packs that are popular and easy to use, such as Bootstrap, Font Awesome, Eva Icons, Line Awesome, Ionicons, and others.
-version: 5.0.0
-homepage: https://github.com/chouhan-rahul
-repository: https://github.com/chouhan-rahul/icons_plus
-issue_tracker: https://github.com/chouhan-rahul/icons_plus/issues
+name: iconsx_plus
+description: IconsX Plus is a Flutter package with a rich collection of popular icon packs including Bootstrap, Font Awesome, Eva Icons, Line Awesome, Ionicons, and many more.
+version: 1.0.0
+homepage: https://github.com/mayurpitroda/iconsx_plus
+repository: https://github.com/mayurpitroda/iconsx_plus
+issue_tracker: https://github.com/mayurpitroda/iconsx_plus/issues
 
 environment:
   sdk: ">=2.16.1 <4.0.0"
