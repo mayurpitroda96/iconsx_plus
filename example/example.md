@@ -1,6 +1,6 @@
 ```dart
 import 'package:flutter/material.dart';
-import 'package:icons_plus/icons_plus.dart';
+import 'package:iconsx_plus/iconsx_plus.dart';
 
 void main() => runApp(const MaterialApp(home: Home()));
 
