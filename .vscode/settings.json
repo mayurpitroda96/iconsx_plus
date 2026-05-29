@@ -1,5 +1,6 @@
 {
-    "cSpell.words": [
-        "alipay"
-    ]
+  "cSpell.words": [
+    "alipay"
+  ],
+  "dart.flutterSdkPath": ".fvm/versions/3.44.0"
 }

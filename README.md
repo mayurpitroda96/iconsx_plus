@@ -1,9 +1,9 @@
 # IconsX Plus
 
 [![pub.dev](https://img.shields.io/pub/v/iconsx_plus?label=pub.dev&logo=dart)](https://pub.dev/packages/iconsx_plus)
-[![GitHub](https://img.shields.io/badge/mayurpitroda-GitHub-black?logo=github)](https://github.com/mayurpitroda)
-[![Issues](https://img.shields.io/github/issues/mayurpitroda/iconsx_plus)](https://github.com/mayurpitroda/iconsx_plus/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mayurpitroda/iconsx_plus/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/badge/mayurpitroda96-GitHub-black?logo=github)](https://github.com/mayurpitroda96)
+[![Issues](https://img.shields.io/github/issues/mayurpitroda96/iconsx_plus)](https://github.com/mayurpitroda96/iconsx_plus/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mayurpitroda96/iconsx_plus/blob/main/LICENSE)
 
 **IconsX Plus** is a Flutter package that provides a rich collection of popular icon packs in one place. Quickly find and add beautiful icons to your app with a simple, consistent API — and full support for the latest Flutter versions.
 
@@ -195,7 +195,7 @@ Icon(ZondIcons.coffee),
 
 ## License
 
-MIT License © [Mayur Pitroda](https://github.com/mayurpitroda)
+MIT License © [Mayur Pitroda](https://github.com/mayurpitroda96)
 
 ---
 
